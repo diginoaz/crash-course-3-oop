@@ -9,3 +9,5 @@ print(p1.hitung_luas())
 s1 = SegiTiga(4, 2)
 print(s1.info())
 print(s1.hitung_luas())
+
+print('end program')
